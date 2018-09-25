@@ -1,0 +1,23 @@
+GET
+
+http://localhost:8080/app/app/providers
+&application=version-provider
+
+
+@Content-type: application/json
+
+%%%
+
+# Duration: 147 ms
+# URL: http://localhost:8080/app/apps/providers?&application=version-provider
+
+# HTTP/1.1 200 OK
+
+@Server: Apache-Coyote/1.1
+@Content-Type: application/json;charset=UTF-8
+@Transfer-Encoding: chunked
+@Date: Fri, 13 Jan 2017 10:01:43 GMT
+
+[
+  "dubbo://172.16.201.51:20880/com.alibaba.dubbo.examples.version.api.VersionService?anyhost=true&application=version-provider&dubbo=2.0.0&generic=false&interface=com.alibaba.dubbo.examples.version.api.VersionService&methods=sayHello&pid=9864&revision=1.0.0&side=provider&timestamp=1484299929677&version=1.0.0"
+]

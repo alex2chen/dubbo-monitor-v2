@@ -1,0 +1,21 @@
+
+Ysquid:UselessImportCheck"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+Csquid:S1168„"+Return an empty collection instead of null.(¥¹ï
+<squid:S11814"%Catch Exception instead of Throwable.(õ¹·Ë
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+qsquid:S1450'"ZRemove the "writeThread" field and declare it as a local variable in the relevant methods.(¾¿ş¼
+Lsquid:S1133""5Do not forget to remove this deprecated code someday.(°ºªÁ
+dsquid:UselessImportCheck
+";Remove this unused import 'com.google.common.base.Strings'.(¬êÅ¡øÿÿÿÿ
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(‘ëª
+tsquid:UselessImportCheck"KRemove this unused import 'com.kxtx.dubbo.monitor.service.StatisticCenter'.(ç­Óùÿÿÿÿ
+ssquid:UselessImportCheck"ORemove this unused import 'org.springframework.expression.spel.ast.Identifier'.(„º²Û
+?squid:S1604/"(Make this anonymous inner class a lambda(ëèÂ¦
+usquid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Š¢‹ûÿÿÿÿ
+Psquid:MissingDeprecatedCheck""(Add the missing @deprecated Javadoc tag.(°ºªÁ
+zsquid:UselessImportCheck"QRemove this unused import 'org.springframework.beans.propertyeditors.UUIDEditor'.(ğ°òèûÿÿÿÿ
+U
+squid:S899|":Do something with the "boolean" value returned by "offer".(Ï£®¢úÿÿÿÿ
+Jsquid:S1135ƒ"2Complete the task associated to this TODO comment.(Õ’»³
+Asquid:S11818"%Catch Exception instead of Throwable.(°ÿïùÿÿÿÿ
+Fsquid:S001088")Either remove or fill this block of code.(°ÿïùÿÿÿÿ

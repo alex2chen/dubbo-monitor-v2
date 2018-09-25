@@ -1,0 +1,23 @@
+
+dsquid:S4488["HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¡œÃÅúÿÿÿÿ
+osquid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¤£y
+psquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºËÙè
+Nsquid:S1135d"2Complete the task associated to this TODO comment.(éÇ‚¶üÿÿÿÿ
+Zsquid:S1155/">Use isEmpty() to check whether the collection is empty or not.(öÜüíùÿÿÿÿ
+nsquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(É„ƒıÿÿÿÿ
+osquid:UselessImportCheck
+"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ
+usquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(š‰‹›ùÿÿÿÿ
+Csquid:S1481^"-Remove this unused "directly" local variable.(ê‰šC
+Zsquid:S1155/">Use isEmpty() to check whether the collection is empty or not.(öÜüíùÿÿÿÿ
+Zsquid:S11550">Use isEmpty() to check whether the collection is empty or not.(¥Àğ›ÿÿÿÿÿ
+_squid:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+dsquid:S4488A"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤‘‚üıÿÿÿÿ
+usquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(š‰‹›ùÿÿÿÿ
+Usquid:S1155E">Use isEmpty() to check whether the collection is empty or not.(ê‰¦
+Usquid:S1155R">Use isEmpty() to check whether the collection is empty or not.(ÈµõŒ
+bsquid:UselessImportCheck"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(çşÂ¶ÿÿÿÿÿ
+Rsquid:S1854^"<Remove this useless assignment to local variable "directly".(ê‰šC
+usquid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(š‰‹›ùÿÿÿÿ
+dsquid:S4488N"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(•ùœüúÿÿÿÿ

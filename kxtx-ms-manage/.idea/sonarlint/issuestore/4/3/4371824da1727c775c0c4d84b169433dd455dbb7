@@ -1,0 +1,13 @@
+
+Psquid:UselessImportCheck"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+squid:UselessImportCheck"VRemove this unused import 'org.springframework.web.servlet.i18n.CookieLocaleResolver'.(’¿âˆÿÿÿÿÿ
+tsquid:UselessImportCheck	"KRemove this unused import 'org.springframework.web.servlet.HandlerMapping'.(¸Â×†ùÿÿÿÿ
+’squid:UselessImportCheck"iRemove this unused import 'org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport'.(ƒ°›¾ýÿÿÿÿ
+tsquid:UselessImportCheck"KRemove this unused import 'org.springframework.web.servlet.HandlerAdapter'.(ã­Æúýÿÿÿÿ
+‰squid:UselessImportCheck"`Remove this unused import 'org.springframework.web.servlet.handler.SimpleServletHandlerAdapter'.(„¶óåùÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ
+‚squid:UselessImportCheck"YRemove this unused import 'org.springframework.web.servlet.i18n.LocaleChangeInterceptor'.(€ó´ãüÿÿÿÿ
+Šsquid:UselessImportCheck"fRemove this unused import 'org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry'.(ùçšï
+‡squid:UselessImportCheck"^Remove this unused import 'org.springframework.web.servlet.view.InternalResourceViewResolver'.(Îøÿ‚þÿÿÿÿ
+rsquid:UselessImportCheck
+"IRemove this unused import 'org.springframework.web.servlet.ViewResolver'.(¸Òóˆüÿÿÿÿ

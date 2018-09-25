@@ -1,0 +1,16 @@
+
+Usquid:S1155$">Use isEmpty() to check whether the collection is empty or not.(™Æñ†
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+dsquid:S4488="HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤‘‚üýÿÿÿÿ
+bsquid:UselessImportCheck"9Remove this unused import 'org.springframework.ui.Model'.(ê†ýÿÿÿÿ
+isquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(½Ñ±Ý
+osquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ
+Zsquid:S1155,">Use isEmpty() to check whether the collection is empty or not.(öÜüíùÿÿÿÿ
+Zsquid:S1155-">Use isEmpty() to check whether the collection is empty or not.(¥Àð›ÿÿÿÿÿ
+dsquid:S4488N"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(•ùœüúÿÿÿÿ
+usquid:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(š‰‹›ùÿÿÿÿ
+usquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(é½ºÁÿÿÿÿÿ
+Zsquid:S1155,">Use isEmpty() to check whether the collection is empty or not.(öÜüíùÿÿÿÿ
+Usquid:S1155S">Use isEmpty() to check whether the collection is empty or not.(ÈµõŒ
+usquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(š‰‹›ùÿÿÿÿ
+Usquid:S1155B">Use isEmpty() to check whether the collection is empty or not.(ê‰¦ž
