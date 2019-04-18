@@ -1,18 +1,0 @@
-
-dsquid:S11927"HDefine a constant instead of duplicating this literal "elapsed" 5 times.(™Û®êþÿÿÿÿ
-bsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(–àÕ$
-]squid:S00112/"FDefine and throw a dedicated exception instead of using a generic one.(©»íp
-gsquid:S1192B"KDefine a constant instead of duplicating this literal "invokeInfo" 6 times.(ˆòõûÿÿÿÿ
-Bsquid:S1168K"+Return an empty collection instead of null.(¥¹ï
-bsquid:S11925"KDefine a constant instead of duplicating this literal "invokeDate" 4 times.(¡Ô½©
-dsquid:S11927"HDefine a constant instead of duplicating this literal "success" 6 times.(™Û®êþÿÿÿÿ
-gsquid:S11927"KDefine a constant instead of duplicating this literal "maxElapsed" 5 times.(™Û®êþÿÿÿÿ
-]squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(©»íp
-Esquid:S1604•"(Make this anonymous inner class a lambda(ŒëÈ¦ùÿÿÿÿ
-hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(î£Û­ûÿÿÿÿ
-jsquid:S11927"NDefine a constant instead of duplicating this literal "maxConcurrent" 5 times.(™Û®êþÿÿÿÿ
-gsquid:S11927"KDefine a constant instead of duplicating this literal "invokeTime" 4 times.(™Û®êþÿÿÿÿ
-dsquid:S11927"HDefine a constant instead of duplicating this literal "failure" 6 times.(™Û®êþÿÿÿÿ
-Esquid:S1604¤"(Make this anonymous inner class a lambda(÷òúÚþÿÿÿÿ
-^squid:S11923"GDefine a constant instead of duplicating this literal "method" 8 times.(àé—í
-dsquid:S11922"HDefine a constant instead of duplicating this literal "service" 9 times.(„ñîðÿÿÿÿÿ

@@ -1,17 +1,0 @@
-
-_squid:S1192C"IDefine a constant instead of duplicating this literal "provider" 3 times.(õ—Áq
-dsquid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(—ÑÊòùÿÿÿÿ
-usquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¯àªûÿÿÿÿ
-dsquid:UselessImportCheck"ARemove this unused import 'com.kxtx.dubbo.monitor.core.DateUtil'.(öŠê|
-bsquid:UselessImportCheck"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ
-psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÂÃè
-\squid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Í
-fsquid:S4488y"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Œ¥îıÿÿÿÿ
-psquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö’ÎÏ
-msquid:UselessImportCheck"IRemove this unused import 'com.kxtx.dubbo.monitor.domain.CommonResponse'.(Ûóë¸
-asquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
-fsquid:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ˆòâˆıÿÿÿÿ
-psquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö’ÎÏ
-esquid:UselessImportCheck"ARemove this unused import 'org.springframework.http.HttpRequest'.(ÌÖÁÛ
-Ysquid:UselessImportCheck"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
-osquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ

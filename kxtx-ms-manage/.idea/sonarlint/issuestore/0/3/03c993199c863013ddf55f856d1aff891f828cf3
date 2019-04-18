@@ -1,33 +1,0 @@
-
-Fsquid:S1068"*Remove this unused "LOGGER" private field.(‚¦Š¹úÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÊ¡Õÿÿÿÿÿ
-psquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙĞ¾õ
-psquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(À¦ÒÃ
-psquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò‹´Å
-usquid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(çìüøÿÿÿÿ
-usquid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¸òõ¯ÿÿÿÿÿ
-usquid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(´À‹ûÿÿÿÿ
-psquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç¹´û
-usquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ†Æöıÿÿÿÿ
-usquid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ†Æöıÿÿÿÿ
-psquid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¹Ê–
-psquid:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¹Ê–
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ á
-qsquid:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¹Ê–
-qsquid:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¹Ê–
-qsquid:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛŞŠŠ
-qsquid:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(îĞ» 
-vsquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊŸÅğüÿÿÿÿ
-vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊŸÅğüÿÿÿÿ
-^squid:HiddenFieldCheck<"<Rename "services" which hides the field declared at line 40.(é ™§
-bsquid:HiddenFieldCheck?"@Rename "applications" which hides the field declared at line 30.(‰áÖŠ
-^squid:HiddenFieldCheckH"<Rename "services" which hides the field declared at line 40.(ÛŒŸç
-asquid:HiddenFieldCheckK"@Rename "applications" which hides the field declared at line 30.(³šo
-nsquid:S37769"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(úš›üÿÿÿÿ
-isquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(óÌ¥L
-asquid:UselessImportCheck"8Remove this unused import 'javax.annotation.PreDestroy'.(ˆÇÜÆüÿÿÿÿ
-Usquid:S1155=">Use isEmpty() to check whether the collection is empty or not.(ÇÉ»ê
-Usquid:S1155@">Use isEmpty() to check whether the collection is empty or not.(ã®ŸŒ
-Usquid:S1155I">Use isEmpty() to check whether the collection is empty or not.(ÇÉ»ê
-Usquid:S1155L">Use isEmpty() to check whether the collection is empty or not.(ã®ŸŒ
-[squid:S1155á">Use isEmpty() to check whether the collection is empty or not.(ÎÄ«¶ıÿÿÿÿ
