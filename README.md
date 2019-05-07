@@ -5,7 +5,7 @@
 	高性能；
 	可拓展性；
 	
-## 后端项目：kxtx-ms-manage #
+## 后端项目：dubbo-ms-manage #
 调整改进功能
 - [x] 	可以持久化mongodb
 - [x] 	不再是BlockingQueue，使用disruptor处理MonitorService接收到的日志
@@ -23,7 +23,7 @@
 	这是两个同领域的监控，链路追踪系统开源的产品比较多，功能也丰富，重造轮子意义也不太大，使用![zipkin](https://github.com/alex2chen/dubbo-zipkin-spring-starter "zipkin")
 
 ## 设计
-![部署](kxtx-ms-www/static/images/topology.jpg "部署")
+![部署](dubbo-ms-www/static/images/topology.jpg "部署")
 	
 ## 使用帮助
 Step1：创建mongodb的数据库（注：项目首次启动会创建表）
@@ -33,10 +33,10 @@ Step3：consumer及provider增加配置<dubbo:monitor protocol="registry"/>
 ## 尚未解决
 - [x] 集群部署下登录会成问题(采用spring-security简单验证)，调整为JWT
 
-## 前端项目：kxtx-ms-www #
+## 前端项目：dubbo-ms-www #
 
 > 基于dubbo开源框架提供的管理及监控应用
-![效果图](kxtx-ms-www/static/images/viewhome.jpg "效果图")
+![效果图](dubbo-ms-www/static/images/viewhome.jpg "效果图")
 ### 目录结构介绍 ##
 	|-- build                            // webpack配置文件
 	|-- config                           // 项目打包路径
