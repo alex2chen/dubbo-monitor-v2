@@ -1,0 +1,9 @@
+GET
+
+http://localhost:8080/app/app/dependencies
+&application=version-consumer
+&reverse=false
+
+@Content-type: application/json
+
+%%%
